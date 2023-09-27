@@ -1,20 +1,22 @@
+# Learning App Project - Capstone Project of Re:Coded Front-End Web Development Bootcamp
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# About the Project
+## About the Project: 📚
+Welcome to the Learning App project! This repository contains the source code for our web application built using React with Next.js, utilizing Tailwind CSS for styling, and MongoDB for data storage.
 
-Welcome to the Learning App project! This repository contains the source code for our web application built using React with Next.js, utilizing Tailwind CSS for styling, and MongoDB for data storage. This README file will guide you through setting up the project, understanding its structure, and contributing to its development.
+## Live Demo of the Project: 📹
 
-### https://learn-u-team-7.vercel.app/tr/get-started
+### [LearnU](https://learn-u-team-7.vercel.app/)
 
-## Features
+## Features: 📖
 
-- User authentication (Sign Up, Log In, Log Out, OAuth).
+- User authentication (Sign Up, Login, Log Out, Auth).
 - Course searching functionality with advanced filtering options.
 - Saving courses for later reference.
 - Watching lesson videos
 - ...and more!
 
-## Technologies, Frameworks and Libraries
+## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 - [Next.js](https://nextjs.org/), [React](https://react.dev/)
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database) for database
 - [Amazon Web Service](https://aws.amazon.com/) for cloud image store
@@ -27,20 +29,31 @@ Welcome to the Learning App project! This repository contains the source code fo
 - [Jest](https://jestjs.io/) for testing
 
 
-## Some screenshots from our project
+## Screenshots: 📷
 
 ### Main Page
-![mainpage](https://github.com/202303-PRM-TR-FEW/LearnU-Team-7/assets/45130129/b3f1e673-13ad-457c-bc47-ed9cfdd2a4cf)
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/fb8ccbe7-ec91-4885-9a21-4dd3fdee0202)
 
 ### Home Page 
-![homepage](https://github.com/202303-PRM-TR-FEW/LearnU-Team-7/assets/45130129/dd7b6441-218e-4075-b79e-89a898d1dda2)
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/29853681-c873-4402-ad74-2d07fc1bbe8b)
 
 ### Search Page
-![seach](https://github.com/202303-PRM-TR-FEW/LearnU-Team-7/assets/45130129/32b6c237-5e74-47f8-94e0-b644549aa224)
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/bf7bf38f-85d3-4815-ac3e-d4551a1d5dbf)
 
 ### Courses Page
-![coursespage](https://github.com/202303-PRM-TR-FEW/LearnU-Team-7/assets/45130129/97831378-8e9a-4ba0-afe2-6d8210064da9)
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/19923e59-31cd-40a8-bcff-87cb4829eae0)
 
-### Single course Page
-![singlecoursepage](https://github.com/202303-PRM-TR-FEW/LearnU-Team-7/assets/45130129/fb69a63f-e443-45c0-ab3e-71e71cedcf9f)
+### Single Course Page
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/c62372b4-deb3-4fbc-9ca5-045f6cb70cdc)
 
+### Profile Page
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/c992fb53-bc1e-4b43-b121-a1468ee68ab3)
+
+### About Page
+![image](https://github.com/tugbaesat/Learnification/assets/114342008/d0806145-a4c6-4e24-996c-909855424fe6)
+
+## Authors: 💻
+- [@tugbaesat](https://github.com/tugbaesat)
+- [@eblaekerdiker](https://github.com/eblaekerdiker)
+- [@AmdjedBelgacem](https://github.com/AmdjedBelgacem)
+- [@4Furki4](https://github.com/4Furki4)
