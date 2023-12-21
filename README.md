@@ -1,22 +1,18 @@
-# Learning App Project - Capstone Project of Re:Coded Front-End Web Development Bootcamp
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Learnification - Education Hub
 
-## About the Project: 📚
-Welcome to the Learning App project! This repository contains the source code for our web application built using React with Next.js, utilizing Tailwind CSS for styling, and MongoDB for data storage.
+The project, serving as the capstone project of a frontend bootcamp, revolves around crafting an interactive learning application that caters to users of diverse ages and skill levels. It aims to offer abroad spectrum of courses across various subjects, ensuring an engaging and enriching educational experience.
 
 ## Live Demo of the Project: 📹
 
 ### [LearnU](https://learn-u-team-7.vercel.app/)
 
-## Features: 📖
-
-- User authentication (Sign Up, Login, Log Out, Auth).
-- Course searching functionality with advanced filtering options.
-- Saving courses for later reference.
-- Watching lesson videos
-- ...and more!
-
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
+
+- **Technology Stack:** Develop a dynamic learning platform using React-based web app with Next.js. Implement Tailwind CSS for a sleek, responsive design, and utilize MongoDB for efficient data storage.
+- **Collaborative Development:** Adopt a Git workflow for collaborative development, ensuringcode quality, version control, and streamlined teamwork among the development team.
+- **User-Centric Design:** Enhance the user experience through internationalization using Next-Intl,enabling users from various regions to access and interact with the platform in their preferred language.
+- **Secure Access:** Ensure secure user access and authentication by integrating Next-Auth, providing a robust authentication system for user data and account management.
+
 - [Next.js](https://nextjs.org/), [React](https://react.dev/)
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database) for database
 - [Amazon Web Service](https://aws.amazon.com/) for cloud image store
@@ -28,7 +24,15 @@ Welcome to the Learning App project! This repository contains the source code fo
 - [React Toastify](https://www.npmjs.com/package/react-toastify) for notifications
 - [Jest](https://jestjs.io/) for testing
 
+## Features: 📖
 
+- User authentication (Sign Up, Login, Log Out, Auth).
+- Course searching functionality with advanced filtering options.
+- Saving courses for later reference.
+- Watching lesson videos
+- ...and more!
+
+  
 ## Screenshots: 📷
 
 ### Main Page
@@ -53,7 +57,7 @@ Welcome to the Learning App project! This repository contains the source code fo
 ![image](https://github.com/tugbaesat/Learnification/assets/114342008/d0806145-a4c6-4e24-996c-909855424fe6)
 
 ## Authors: 💻
-- [@tugbaesat](https://github.com/tugbaesat)
-- [@eblaekerdiker](https://github.com/eblaekerdiker)
-- [@AmdjedBelgacem](https://github.com/AmdjedBelgacem)
-- [@4Furki4](https://github.com/4Furki4)
+- Tugba Esat Sahin [@tugbaesat](https://github.com/tugbaesat)
+- Ebla Ekerdiker [@eblaekerdiker](https://github.com/eblaekerdiker)
+- Amdjed Belgacem [@AmdjedBelgacem](https://github.com/AmdjedBelgacem)
+- Furkan Cengiz [@4Furki4](https://github.com/4Furki4)
