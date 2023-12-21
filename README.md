@@ -4,7 +4,7 @@ The project, serving as the capstone project of a frontend bootcamp, revolves ar
 
 ## Live Demo of the Project: 📹
 
-### [LearnU](https://learn-u-team-7.vercel.app/)
+- Live Project URL: [Learnification](https://learn-u-team-7.vercel.app/)
 
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 
@@ -36,25 +36,44 @@ The project, serving as the capstone project of a frontend bootcamp, revolves ar
 ## Screenshots: 📷
 
 ### Main Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/fb8ccbe7-ec91-4885-9a21-4dd3fdee0202)
+![image](./public/design/Screenshot_1.png)
 
 ### Home Page 
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/29853681-c873-4402-ad74-2d07fc1bbe8b)
+![image](./public/design/Screenshot_2.png)
+
+### Login Page
+![image](./public/design/Screenshot_3.png)
+
+### Register Page
+![image](./public/design/Screenshot_4.png)
 
 ### Search Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/bf7bf38f-85d3-4815-ac3e-d4551a1d5dbf)
+![image](./public/design/Screenshot_5.png)
 
 ### Courses Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/19923e59-31cd-40a8-bcff-87cb4829eae0)
+![image](./public/design/Screenshot_6.png)
+
+### Saved Courses Page
+![image](./public/design/Screenshot_7.png)
+
+### Statistics Page
+![image](./public/design/Screenshot_8.png)
 
 ### Single Course Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/c62372b4-deb3-4fbc-9ca5-045f6cb70cdc)
+![image](./public/design/Screenshot_9.png)
+
+### Saved Courses Page with No Course Saved
+![image](./public/design/Screenshot_10.png)
 
 ### Profile Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/c992fb53-bc1e-4b43-b121-a1468ee68ab3)
+![image](./public/design/Screenshot_11.png)
 
-### About Page
-![image](https://github.com/tugbaesat/Learnification/assets/114342008/d0806145-a4c6-4e24-996c-909855424fe6)
+### About Us Page
+![image](./public/design/Screenshot_12.png)
+
+### About Us Page - Turkish
+![image](./public/design/Screenshot_13.png)
+
 
 ## Authors: 💻
 - Tugba Esat Sahin [@tugbaesat](https://github.com/tugbaesat)
